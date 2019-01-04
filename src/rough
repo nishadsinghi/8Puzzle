@@ -1,0 +1,30 @@
+/*switch(possibleSwappings[locationOfZero_prev][locationOfZero_curr]){
+                case 1:
+                   System.out.println("1");
+                   output += previous.charAt(locationOfZero_curr); 
+                   output += 'D';
+                   break;
+                   
+                case 2:
+                   System.out.println("2");
+                   output += previous.charAt(locationOfZero_curr); 
+                   output += 'R';
+                   break;
+                   
+                case 3:
+                    System.out.println("3");
+                    output += previous.charAt(locationOfZero_curr); 
+                    output += 'L';
+                    break;
+                   
+                case 4:
+                   System.out.println("4");
+                   output += previous.charAt(locationOfZero_curr); 
+                   output += 'U';
+                   break;
+            }*/
+            
+            //System.out.println(locationOfZero_prev + ", " + locationOfZero_curr);
+            //System.out.println(possibleSwappings[locationOfZero_prev][locationOfZero_curr]);
+            
+            
